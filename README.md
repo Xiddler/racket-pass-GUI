@@ -17,4 +17,4 @@ The url-nick for www.drupal.org is __drupal__. This makes finding the credential
 
 The credentials are stored in JSON format in a plaintext file for maximum flexibility.
 
-The plaintext file is encrypted. But this is optional if you're machine is safe.
+The plaintext file is encrypted. But this is optional if your machine is safe.

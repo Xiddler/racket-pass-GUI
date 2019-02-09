@@ -5,15 +5,15 @@ I created it because I have signed up to loads of web services and websites and 
 
 
 There are seven fields:
-url-nick
-website
-email
-username
-password
-date
-note
+- url-nick
+- website
+- email
+- username
+- password
+- date
+- note
 
-The url-nick for www.drupal.org is drupal. This make finding  the credentials from the CLI very quick and easy.
+The url-nick for www.drupal.org is __drupal__. This makes finding the credentials using CLI tools like ag and ripgrep very quick and easy.
 
 The credentials are stored in JSON format in a plaintext file for maximum flexibility.
 
